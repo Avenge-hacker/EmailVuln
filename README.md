@@ -8,7 +8,7 @@ Harap kamu mempunyai kuota internet
 #### $ apt install git
 #### $ apt install python2
 #### $ apt install figlet
-#### $ git clone (link nya)
+#### $ git clone https://github.com/Avenge-hacker/EmailVuln.git
 #### $ cd EmailVuln
 #### $ python2 vuln.py
 ## HARAP MEMAKAI TOOL INI AKUN FB NYA HARUS KUAT
